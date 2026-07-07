@@ -26,4 +26,4 @@ Having my development environment ready made me feel prepared to start learning 
 
 ---
 
-**Status:** ✅ Completed
+**Status:** Completed
